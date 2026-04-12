@@ -1,0 +1,15 @@
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/bin/Debug/net8.0/Interface
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/bin/Debug/net8.0/Interface.deps.json
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/bin/Debug/net8.0/Interface.dll
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/bin/Debug/net8.0/Interface.pdb
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.dll
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/refint/Interface.dll
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.pdb
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/home/vigneshwaran/Projects/Presidio/C-Sharp/Task8/Interface/obj/Debug/net8.0/ref/Interface.dll
